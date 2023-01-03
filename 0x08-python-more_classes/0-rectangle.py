@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-"""0-rectangle, built for Holberton project 0x08 task 0.
+"""
+This is the "Rectangle"  module.
+This module provides a simple Rectangle class.
 """
 
 
 class Rectangle:
-    """Empty class per task instructions, will be built upon in later tasks.
-    """
+    """A simple Rectangle class"""
     pass
